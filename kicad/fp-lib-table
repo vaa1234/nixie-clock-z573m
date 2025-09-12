@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "nixie-clock-z573m")(type "KiCad")(uri "${KIPRJMOD}/nixie-clock-z573m.pretty")(options "")(descr ""))
+)
